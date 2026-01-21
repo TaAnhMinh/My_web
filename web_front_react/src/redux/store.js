@@ -1,4 +1,3 @@
-s
 import { configureStore } from '@reduxjs/toolkit';
 
 // We will add slices here later
